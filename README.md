@@ -1,22 +1,31 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+<h1></h1>
 <h1 align="center">Hi there, I'm Olexandr Lazarenko <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;.NET+Core+Developer;Full-Stack+TypeScript+Developer;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;.NET+Core+Developer;Full-Stack+JavaScript+Developer;Always+learning+new+things"></a>
 </p>
 
-I am a 3-year university student of CS specialty at [Karazin National University](https://karazin.ua/en), Ukraine.</br>
-Apart from that, I am currently working as Full-Stack .NET developer at [SoftServe](https://www.softserveinc.com/en-us) with a bias towards the React.js / Next.js.
+## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> About me
+
+- :school: I am a 3-year university student of CS specialty at [Karazin National University](https://karazin.ua/en), Ukraine.
+- :briefcase: I am currently working as Full-Stack .NET developer at [SoftServe](https://www.softserveinc.com/en-us) with a bias towards the React.js / Next.js.
+- :trophy: I have repeatedly won prizes at Olympiads in Programming and Mathematics during my studentship.
+- :technologist: I love using Software as a solution for every `problem`.
+- :nerd_face: I'm **always** into `learning new things`.
+<!--- :thinking: - I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).-->
+- :boom: You can visit [MY WEBSITE](https://alexlaer.github.io/).
+<br>
+
+**Currently focused on**:
+- grasping on [Svelte](https://svelte.dev/) & [SvelteKit](https://kit.svelte.dev/),
+- CI/CD pipeline automation using [Nuke](https://nuke.build/).
 
  **I am open to**:
- 
 - any collaboration work,
 - any UI/UX-oriented React or Svelte projects,
 - development of resilient .NET Core Microservices,
 - db / sofware architecture design of >= .NET 3.1 projects,
 - full-stack JavaScript or TypeScript projects (development or research).
-
-**Currently focused on**:
-- grasping [Svelte](https://svelte.dev/) & [SvelteKit](https://kit.svelte.dev/),
-- CI/CD pipeline automation using [Nuke](https://nuke.build/).
 
 ## Skills:
 
