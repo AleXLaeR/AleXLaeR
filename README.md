@@ -17,8 +17,9 @@
 <br>
 
 **Currently focused on**:
-- grasping on [Svelte](https://svelte.dev/) & [SvelteKit](https://kit.svelte.dev/),
-- CI/CD pipeline automation using [Nuke](https://nuke.build/).
+- grasping on the **Next Big Thing** - [Svelte](https://svelte.dev/) & [SvelteKit](https://kit.svelte.dev/),
+- learning the _most progressive_ Node.js Framework - **NestJS**,
+- .NET CI/CD pipeline automation using [Nuke](https://nuke.build/).
 
  **I am open to**:
 - any collaboration work,
