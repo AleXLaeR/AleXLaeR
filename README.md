@@ -103,7 +103,7 @@
 [<img src="https://img.shields.io/badge/telegram-%2312100E.svg?&style=for-the-badge&logo=telegram&logoColor=white&color=black" />](https://t.me/AleXLaeR)
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexlaer&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="AleXLaeR's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexlaer&layout=compact&&hide=C++&theme=buefy&hide_border=true&exclude_repo=Django-Social_Media_Website" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexlaer&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="AleXLaeR's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexlaer&layout=compact&&hide=C++&theme=buefy&hide_border=true&exclude_repo=Django-Social_Media_Website&langs_count=8" /></a> |
 | ------------- | ------------- |
 
 <img alig src="https://github-profile-trophy.vercel.app/?username=alexlaer&theme=onedark&margin-w=15&rank=-C" />
